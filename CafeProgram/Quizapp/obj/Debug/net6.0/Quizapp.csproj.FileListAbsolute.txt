@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Quizapp\Quizapp\bin\Debug\net6.0\Quizapp.exe
+C:\Users\hp\source\repos\Quizapp\Quizapp\bin\Debug\net6.0\Quizapp.deps.json
+C:\Users\hp\source\repos\Quizapp\Quizapp\bin\Debug\net6.0\Quizapp.runtimeconfig.json
+C:\Users\hp\source\repos\Quizapp\Quizapp\bin\Debug\net6.0\Quizapp.dll
+C:\Users\hp\source\repos\Quizapp\Quizapp\bin\Debug\net6.0\Quizapp.pdb
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\Quizapp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\Quizapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\Quizapp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\Quizapp.AssemblyInfo.cs
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\Quizapp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\Quizapp.dll
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\refint\Quizapp.dll
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\Quizapp.pdb
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\Quizapp.genruntimeconfig.cache
+C:\Users\hp\source\repos\Quizapp\Quizapp\obj\Debug\net6.0\ref\Quizapp.dll
